@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503433531927",
+    "project_id": "bluetoothmodule-39370",
+    "storage_bucket": "bluetoothmodule-39370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503433531927:android:599be893f3ea53c3944252",
+        "android_client_info": {
+          "package_name": "com.example.bluetoothmodule"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsm27onBoJ6cw6b_M378dAT0sQk9Te1g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
